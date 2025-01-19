@@ -4,4 +4,4 @@
 main.py 파일 다운로드 시 streamlit을 확인 가능하며,
 PC 환경에 구애받지 않고 보다 상세한 분석 결과를 확인하시려면 하단 첨부된 notion 페이지 참고 부탁드립니다.
 
-https://www.notion.so/18029e7563d3809fbc16c3d8c3518f18?pvs=4
+https://parallel-appliance-dda.notion.site/18029e7563d3809fbc16c3d8c3518f18
